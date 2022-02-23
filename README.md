@@ -1,8 +1,8 @@
 # Demo Kampagnen Seite
 
-Dies ist eine Demo Kampagnen Seite basierend auf dem [Universal Theme for Hugo](https://devcows.github.io/hugo-universal-theme).
+Dies ist eine Demo Kampagnen Seite basierend auf dem [Universal Theme for Hugo](https://devcows.github.io/hugo-universal-theme){:target="_blank"}.
 
-[Hier](https://dpolakovics.github.io/demo.site/) befindet sich die Seite.
+[Hier](https://dpolakovics.github.io/demo.site/){:target="_blank"} befindet sich die Seite.
 
 ## Folgende Anpassungen wurden vorgenommen:
 - Änderungen von Email Adressen
@@ -21,8 +21,8 @@ Die Seite wird über eine GitHub action gebuildet und in eine separate Branch ge
 Diese Branch ist der Source für GitHub Pages
 
 ## Folgende Tools kamen zum Einsatz:
-- [NeoVim](https://neovim.io)
-  - [LunarVim](https://www.lunarvim.org/#opinionated) Anpassungen
+- [NeoVim](https://neovim.io){:target="_blank"}
+  - [LunarVim](https://www.lunarvim.org/#opinionated){:target="_blank"} Anpassungen
 - Git
 - GitHub
   - Actions
